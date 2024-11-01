@@ -4,7 +4,7 @@ from datetime import datetime
 import time
 
 # Initialize bot
-bot = telebot.TeleBot('7721828898:AAEinFY0uxBoJKdxX6--UlXBapWWBNPCWV4')
+bot = telebot.TeleBot('fdfd4')
 
 # Simulated data for Pump.Fun
 DECIMALS = 1000000000  # 9 decimals for Solana
